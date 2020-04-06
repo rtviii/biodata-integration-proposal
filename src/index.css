@@ -4,18 +4,29 @@ body {
     "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-color: black;
+
+}
+a {
+  color: cyan;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
-body::-webkit-scrollbar{
+body::-webkit-scrollbar {
   display: none;
-
 }
-.element::-webkit-scrollbar { width: 0 !important }
-.element { overflow: -moz-scrollbars-none; }
-.element { -ms-overflow-style: none; }
+.element::-webkit-scrollbar {
+  width: 0 !important;
+}
+.element {
+  overflow: -moz-scrollbars-none;
+}
+.element {
+  -ms-overflow-style: none;
+}
 /* Hide scrollbar for Chrome, Safari and Opera */
 .example::-webkit-scrollbar {
   display: none;

@@ -40,13 +40,12 @@ function App() {
 
       <div className="query">
         <button className="accordion">Proposal</button>
-        <div className="panel" dangerouslySetInnerHTML={{ __html: proposal }} />
-
-        <div className="inquiry" dangerouslySetInnerHTML={{ __html: inquiry }}>
-
+        <div className="panel" dangerouslySetInnerHTML={{ __html: proposal }} >
         </div>
-
+        <div className="inquiry" dangerouslySetInnerHTML={{ __html: inquiry }}>
+        </div>
       </div>
+
     </div>
   );
 }
