@@ -5,6 +5,7 @@ I'm curious if you've ever found yourself in a similar situation:
 
  - you need experimental data and have no idea where to get it
  - an API/Database doesn't allow for *high-volume* data-fetching
+ - some heuristic you use becomes invalid when you try to augument your dataset with a different type
  - an API seems *poorly documented* or became *obscure or obsolete* over the years (bindings for older languages, outdated format specifications, labyrinthine endpoints)
  - the mappings are unsatisfactory between the two APIs (there are *reproducible inconsistencies* between same data different sources provide)
  - the shape you need lies on the intersection of mutually-exclusive ontologies
