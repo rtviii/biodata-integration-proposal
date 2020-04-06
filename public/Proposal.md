@@ -1,7 +1,5 @@
 
-[ In the long run, we'd like to be able to **access multiple bionformatics resources from the same place** with little friction and high integration betwen the fetched data.
-
- A meta-```curl```.
+[ In the long run, we'd like to be able to **access multiple bionformatics resources from the same place** with little friction and high integration betwen the fetched data. A meta-```curl``` of sorts.
 
 Say, wouldn't it be great if it also encapsulated some of the meaningless **data-cleaning** that we are doing right now and formatted the targets **into the shape that we need** for the experiment even before arrival. Why, yes it would. ] 
 
