@@ -9,7 +9,7 @@ I'm curious if you've ever found yourself in a similar situation:
  - an API seems *poorly documented* or became *obscure or obsolete* over the years (bindings for older languages, outdated format specifications, labyrinthine endpoints)
  - the mappings are unsatisfactory between the two APIs (there are *reproducible inconsistencies* between same data different sources provide)
  - the shape you need lies on the intersection of mutually-exclusive ontologies
- - the API/Database doesn't serve the data the *format* you'd prefer 
+ - the API/Database doesn't serve the data in the *format* you'd prefer 
  - the resource is isolated in any other sense (weak interoperability/no obvious mappings to other relevant resources or schemas) 
 
 Please drop me a line if so!
