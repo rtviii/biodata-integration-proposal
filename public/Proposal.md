@@ -6,11 +6,9 @@ Say, wouldn't it be great if it also encapsulated some of the meaningless **data
 
 #### We wish for an interface to life that has:
 
-1. **Closure** : *just fetch* any biochem-datum from the space of public repositories with a single query. If *it*'s digitized and non-proprietary - you should be able to get it.
+1. **Closure** : *just fetch* any biochem-datum from the space of public repositories with a single query. If *it*'s digitized and non-proprietary - you should be able to get it. 
 
-
-2. **Common Ontology** : Closure enables complete indexing and a singular namespace. Hence, if ***it***'s available but *also* ***its subunits*** are available, and *also* ***its subunits' ```.cif``` models*** and *also*... -- you should be able to get it. A common ontology enables us to **integrate heterogenous data** up to a ```pd```-dataframe/```np```.shape/whatever's next.
-
+2. **Common Ontology** : Closure enables complete indexing and a singular namespace. You should be able to **integrate heterogenous data** up to a ```pd```-dataframe/```np```.shape/whatever's next: if ***it***'s available but *also* ***its subunits*** are available, and *also* ***its subunits' ```.cif``` models*** are available and *also*... - you should be able to get it. A common ontology precludes a complete graph. 
 ___
 
 
