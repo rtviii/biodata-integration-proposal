@@ -13,6 +13,7 @@
 
 .container {
   height: 100%;
+
 }
 
 @media only screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) {
@@ -21,6 +22,7 @@
     font-size: small;
   }
   .container {
+  height: 100%;
     padding-top: 20px;
     padding-bottom: 20px;
     background-image: url("./TNTs.gif");
@@ -34,6 +36,7 @@
     background: rgba(0, 0, 0, 0.514);
   }
   .container {
+  height: 100%;
     padding-top: 20px;
     padding-bottom: 20px;
     background-image: url("./TNTs.gif");
@@ -47,6 +50,7 @@
     background: rgba(0, 0, 0, 0.514);
   }
   .container {
+  height: 100%;
     padding-top: 20px;
     padding-bottom: 20px;
 
@@ -61,6 +65,7 @@
     font-size: small;
   }
   .container {
+  height: 100%;
     padding-top: 20px;
     padding-bottom: 20px;
     background-image: url("./TNTs.gif");
@@ -75,9 +80,18 @@
     background: rgba(0, 0, 0, 0.514);
   }
   .container {
+  height: 100%;
     padding-top: 20px;
     padding-bottom: 20px;
     background-image: url("./TNTs.gif");
     background-size: contain;
   }
+}
+
+.subscript{
+  font-size: x-small;
+}
+.container {
+  min-height: 100vh;
+
 }

@@ -10,7 +10,10 @@ Say, wouldn't it be great if it also encapsulated some of the meaningless **data
 
 
 2. **Common Ontology** : Closure enables complete indexing and a singular namespace. Hence, if ***it***'s available but *also* ***its subunits*** are available, and *also* ***its subunits' ```.cif``` models*** and *also*... -- you should be able to get it. A common ontology enables us to **integrate heterogenous data** up to a ```pd```-dataframe/```np```.shape/whatever's next.
+
 ___
+
+
 
 
 
