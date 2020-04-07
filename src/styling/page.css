@@ -1,0 +1,35 @@
+.query {
+  color: rgb(255, 255, 255);
+  background: rgba(0, 0, 0, 0.548);
+  width: 50%;
+  font-size: 0.9em;
+  transition: box-shadow 0.3s ease-in-out;
+  margin:auto;
+  overflow-y: scroll;
+  border: 1px solid blue;
+  padding: 10px 20px;
+}
+
+.query::-webkit-scrollbar {
+  display: none;
+}
+
+.container {
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position-x: 50%;
+}
+
+
+
+@media only screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) {
+
+  .query{
+    
+    width: 80%;
+  
+  
+  
+  }
+
+}
