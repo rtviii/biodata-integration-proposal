@@ -4,7 +4,8 @@
   padding: 8px;
   width: 100%;
   font-size: 1em;
-  background: rgba(0, 0, 0, 0.548);
+  background: #0000008c;
+  box-shadow: 1px 3px 5px rgba(0, 255, 255, 0.575);
   border: none;
   color: white;
   transition: 0.4s;
