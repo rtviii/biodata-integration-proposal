@@ -35,3 +35,26 @@
     box-shadow: none;
   }
 }
+
+@media only screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) {
+  body.hasHover .collapse:hover {
+    box-shadow: none;
+  }
+}
+
+@media only screen and (device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) {
+  body.hasHover .collapse:hover {
+    box-shadow: none;
+  }
+}
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+  body.hasHover .collapse:hover {
+    box-shadow: none;
+  }
+}
+
+@media all and (max-width: 600px) {
+  body.hasHover .collapse:hover {
+    box-shadow: none;
+  }
+}
