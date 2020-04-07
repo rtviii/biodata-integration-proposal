@@ -16,7 +16,7 @@ function App() {
     fetch(proposalmd).then(r => r.text()).then(md => {
       setProposal(marked(md))
     })
-    var acc = document.getElementsByClassName("accordion");
+    var acc = document.getElementsByClassName("collapse");
     var i;
     for (i = 0; i < acc.length; i++) {
 
@@ -41,11 +41,25 @@ function App() {
     <div className="container">
 
       <div className="query">
-        <button className="accordion">Proposal</button>
+        <button className="collapse">Proposal</button>
         <div className="panel" dangerouslySetInnerHTML={{ __html: proposal }} >
         </div>
         <div className="inquiry" dangerouslySetInnerHTML={{ __html: inquiry }}>
         </div>
+
+        <div>
+
+          <a name="auditory" >*</a> I realize that this might not actually be immediately useful to a professional biologist, who already has her heuristics developed and delivery pipelines figured out, or a professional data-scientist for whom another layer of scripting on top of the usual cleaning might not seem so unnatural. In fact, i'd like to hear from an audience in-between insofar as it exists. And insofar as it doesn't -- the reasons for why it can't.
+</div>
+        <br />
+        <div>
+          <a name="complexity" >**</a> Likewise, i'm perfectly aware of the complexity that something like that incurs in the limit. Contra certain responses along the lines of "impossible due to cost/complexity", to me it's obvious that -- again, in the limit -- costs are justified by the appropriate demand:  infrastsructure has to materialize eventually and the perceived complexity is not going to go away.
+        </div>
+
+
+
+
+
       </div>
 
     </div>

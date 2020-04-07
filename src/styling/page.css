@@ -1,12 +1,9 @@
 .query {
   color: rgb(255, 255, 255);
-  background: rgba(0, 0, 0, 0.548);
-  width: 50%;
-  font-size: 0.9em;
+  background: rgba(0, 0, 0, 0.767);
   transition: box-shadow 0.3s ease-in-out;
-  margin:auto;
+  margin: auto;
   overflow-y: scroll;
-  border: 1px solid blue;
   padding: 10px 20px;
 }
 
@@ -16,16 +13,68 @@
 
 .container {
   height: 100%;
-  background-repeat: no-repeat;
-  background-position-x: 50%;
 }
 
-
-
 @media only screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) {
-
-  .query{
+  .query {
     width: 80%;
+    font-size: small;
   }
+  .container {
+    padding-top: 20px;
+    background-image: linear-gradient(217deg, rgb(0, 241, 189), rgb(61, 3, 136) 70.71%),
+      linear-gradient(127deg, rgba(0, 17, 255, 0.8), rgb(0, 217, 255) 70.71%),
+      linear-gradient(336deg, rgba(6, 6, 155, 0.925), rgb(38, 40, 156) 70.71%);
+  }
+}
+@media only screen and (device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) {
+  .query {
+    width: 80%;
+    font-size: small;
+    background: rgba(0, 0, 0, 0.514);
+  }
+  .container {
+    padding-top: 20px;
+    background-image: linear-gradient(217deg, rgb(0, 241, 189), rgb(61, 3, 136) 70.71%),
+      linear-gradient(127deg, rgba(0, 17, 255, 0.8), rgb(0, 217, 255) 70.71%),
+      linear-gradient(336deg, rgba(6, 6, 155, 0.925), rgb(38, 40, 156) 70.71%);
+  }
+}
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+  .query {
+    width: 80%;
+    font-size: small;
+    background: rgba(0, 0, 0, 0.514);
+  }
+  .container {
+    padding-top: 20px;
+    background-image: linear-gradient(217deg, rgb(0, 241, 189), rgb(61, 3, 136) 70.71%),
+      linear-gradient(127deg, rgba(0, 17, 255, 0.8), rgb(0, 217, 255) 70.71%),
+      linear-gradient(336deg, rgba(6, 6, 155, 0.925), rgb(38, 40, 156) 70.71%);
+  }
+}
 
+@media all and (max-width: 600px) {
+  .query {
+    width: 80%;
+    font-size: small;
+  }
+  .container {
+    padding-top: 20px;
+    background-image: url("./TNTs.gif");
+    background-size: contain;
+  }
+}
+
+@media all and (min-width: 600px) {
+  .query {
+    width: 65%;
+    font-size: 0.7em;
+    background: rgba(0, 0, 0, 0.514);
+  }
+  .container {
+    padding-top: 20px;
+    background-image: url("./TNTs.gif");
+    background-size: contain;
+  }
 }

@@ -1,4 +1,4 @@
-.accordion {
+.collapse {
   outline: none;
   cursor: pointer;
   padding: 8px;
@@ -9,17 +9,17 @@
   color: white;
   transition: 0.4s;
 }
-.accordion:after {
+.collapse:after {
   content: "\02795";
   font-size: 13px;
   color: white;
   float: right;
   margin-left: 5px;
 }
-.active:after {
+.collapse.active:after {
   content: "\2796";
 }
-.accordion:hover {
+.collapse:hover {
   box-shadow: 4px 4px rgb(7, 2, 255), 8px 8px rgb(7, 221, 0), 12px 12px rgb(255, 0, 0), 16px 16px 10px rgba(160, 82, 233, 0.603);
   cursor: pointer;
 }
@@ -31,11 +31,7 @@
 }
 
 @media only screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) {
-
-    .accordion:hover{
-        box-shadow: none;
-    }
-    
-
-
+  body.hasHover .collapse:hover {
+    box-shadow: none;
+  }
 }
