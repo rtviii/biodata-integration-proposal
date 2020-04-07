@@ -84,7 +84,7 @@ function watchForHover() {
   function disableHover() {
     if (!hasHoverClass) return;
 
-    container.className = container.className.replace(' hasHover', '');
+    container.className = container.className.replace('hasHover', '');
     hasHoverClass = false;
   }
 
