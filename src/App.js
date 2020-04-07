@@ -54,7 +54,7 @@ function App() {
         <br />
         <div
           className="subscript">
-          <a name="complexity" >**</a> Likewise, i'm perfectly aware of the complexity that something like that incurs in the limit. Contra certain responses along the lines of "impossible due to cost/complexity", to me it's obvious that -- again, in the limit -- costs are justified by the appropriate demand:  infrastsructure has to materialize eventually and the perceived complexity is not going to go away.
+          <a name="complexity" >**</a> Likewise, i'm perfectly aware of the complexity that something like that incurs in the limit. Contra certain responses along the lines of "impossible due to cost/complexity": it seems obvious that -- again, in the limit -- any costs are justified by the appropriate demand and this infrastsructure has to materialize eventually. Complexity does not decrease of its own accord.
         </div>
 
 
