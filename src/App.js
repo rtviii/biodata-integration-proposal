@@ -13,9 +13,13 @@ function App() {
     fetch(inquirymd).then(r => r.text()).then(md => {
       setInquiry(marked(md))
     })
+
     fetch(proposalmd).then(r => r.text()).then(md => {
       setProposal(marked(md))
     })
+
+
+
     var acc = document.getElementsByClassName("collapse");
     var i;
     for (i = 0; i < acc.length; i++) {
@@ -32,6 +36,14 @@ function App() {
     }
 
     watchForHover();
+
+
+    setTimeout(() => {
+
+      acc[0].click();
+    }, 800);
+
+
   }, [])
 
 

@@ -1,6 +1,4 @@
-### Question:
-
-I'm curious if you've ever found yourself in a similar situation:
+Hence, I'm curious if you've ever found yourself in a similar situation:
 
  - an API/Database doesn't allow for *high-volume* data-fetching
  - some heuristic you use becomes invalid when you try to augument your dataset with a different type
@@ -14,13 +12,13 @@ I'm curious if you've ever found yourself in a similar situation:
 
 Please drop me a line or more if so or share any other thoughts you have about this. I'd really love to learn what can be improved and incorporated into our project. We are starting with a Node CLI for EMBL.
 
-*It doesn't matter which slice of the biochemistry-stack you are dealing with (omics/expression dictionaries/cryoem models/sequences/..) or which format your case conforms to (fp-arrays/text/dictionary/time-series)[**](#complexity) -- we'd still love to hear about it*: [ ```rtkushner@gmail.com``` ](mailto:rtkushner@gmail.com?subject=Biological+Data+Integration)
+*It doesn't matter which slice of the biochemistry-stack you are dealing with (omics/expression atlases/cryoem models/sequences/..) or which format your case conforms to (fp-arrays/text/dictionary/time-series)[**](#complexity) -- we'd still love to hear about it*: [ ```rtkushner@gmail.com``` ](mailto:rtkushner@gmail.com?subject=Biological+Data+Integration)
 
 Thank you!
 
 ____
 
-ex. PDB Rutgers are developing a [GraphQL](https://graphql.org/) wrapper for their API and their [ beta ](http://beta.rcsb.org/pages/webservices) is up sometimes.
+In a way of a small example, PDB Rutgers are developing a [GraphQL](https://graphql.org/) wrapper for their API and their [ beta ](http://beta.rcsb.org/pages/webservices) is up sometimes.
 
 _________
 
