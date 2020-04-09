@@ -53,7 +53,7 @@ function App() {
     <div className="container">
 
       <div className="query">
-        <button className="collapse">Proposal</button>
+        <button className="collapse"> The Proposal </button>
         <div className="panel" dangerouslySetInnerHTML={{ __html: proposal }} >
         </div>
         <div className="inquiry" dangerouslySetInnerHTML={{ __html: inquiry }}>
