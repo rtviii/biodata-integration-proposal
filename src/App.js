@@ -54,10 +54,8 @@ function App() {
 
       <div className="query">
         <button className="collapse"> The Proposal </button>
-        <div className="panel" dangerouslySetInnerHTML={{ __html: proposal }} >
-        </div>
-        <div className="inquiry" dangerouslySetInnerHTML={{ __html: inquiry }}>
-        </div>
+        <div className="panel" dangerouslySetInnerHTML={{ __html: proposal }} />
+        <div className="inquiry" dangerouslySetInnerHTML={{ __html: inquiry }}/>
 
         <div className="subscript">
 
@@ -66,7 +64,7 @@ function App() {
         <br />
         <div
           className="subscript">
-          <a name="complexity" >**</a> Likewise, i'm perfectly aware of the complexity that something like that incurs in the limit. Contra certain responses along the lines of "impossible due to cost/complexity": it seems obvious that -- again, in the limit -- any costs are justified by the appropriate demand. An infrastsructure like this has to materialize eventually and now is as good a time as any to start. 
+          <a name="complexity" >**</a> Likewise, i'm perfectly aware of the complexity that something like that incurs in the limit. Contra certain responses along the lines of "impossible due to cost/complexity": it seems obvious that -- again, in the limit -- any costs are justified by the appropriate demand. An infrastsructure like this has to materialize eventually and now is as good a time as any to start.
         </div>
 
 
