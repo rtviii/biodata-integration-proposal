@@ -53,19 +53,21 @@ function App() {
     <div className="container">
 
       <div className="query">
-        <button className="collapse"> The Proposal </button>
-        <div className="panel" dangerouslySetInnerHTML={{ __html: proposal }} />
-        <div className="inquiry" dangerouslySetInnerHTML={{ __html: inquiry }}/>
 
-        <div className="subscript">
+        <div className="proposal" dangerouslySetInnerHTML={{ __html: proposal }} />
+
+        <button className="collapse"> A Question for You </button>
+        <div className="panel" dangerouslySetInnerHTML={{ __html: inquiry }} />
+
+        {/* <div className="subscript">
 
           <a name="auditory" >*</a> I realize that this might not actually be immediately useful to a professional biologist, who already has her heuristics developed and delivery pipelines figured out, or a professional data-scientist for whom another layer of scripting on top of the usual cleaning might not seem so unnatural. In fact, i'd like to hear from an audience in-between insofar as it exists. And insofar as it doesn't -- the reasons for why it can't.
-</div>
+        </div>
         <br />
         <div
           className="subscript">
           <a name="complexity" >**</a> Likewise, i'm perfectly aware of the complexity that something like that incurs in the limit. Contra certain responses along the lines of "impossible due to cost/complexity": it seems obvious that -- again, in the limit -- any costs are justified by the appropriate demand. An infrastsructure like this has to materialize eventually and now is as good a time as any to start.
-        </div>
+        </div> */}
 
 
 

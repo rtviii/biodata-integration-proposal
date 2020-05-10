@@ -1,26 +1,28 @@
-Hence, I'm curious if you've ever found yourself in a similar situation:
+Baby steps though. I'm starting with a GraphQL interface for EMBL because that is roughly the edge of my limited expertise.
+I would be grateful to hear from you about
 
- - an API/Database doesn't allow for *high-volume* data-fetching
+ - an interface doesn't allow for *high-volume* data-fetching
  - some heuristic you use becomes invalid when you try to augument your dataset with a different type
- - an API seems *poorly documented* or became *obscure or obsolete* over the years (bindings for older languages, outdated format specifications, labyrinthine endpoints)
+ - an API seems poorly documented or became obscure or obsolete over the years (bindings for older languages, outdated format specifications, labyrinthine endpoints)
  - the mappings are unsatisfactory between the two APIs (there are *reproducible inconsistencies* between same data different sources provide)
- - the shape you need lies on the intersection of mutually-exclusive ontologies
- - the API/Database doesn't serve the data in the *format* you'd prefer 
- - you need experimental data and have no idea where to get it
- - you spend more time on cleaning data than on runnning the study
- - the resource is isolated in any other sense (weak interoperability/no obvious mappings to other relevant resources or schemas) 
+ - you need domain-specific experimental data and have no idea where to get it
+ - the resource has low interoperability or no obvious mappings to others in its family
 
-Please drop me a line or more if so or share any other thoughts you have about this. I'd really love to learn what can be improved and incorporated into our project. We are starting with a Node CLI for EMBL.
+In a way of a small example, [ PDB Rutgers ](https://www.rcsb.org/pages/webservices) are also developing a [ GraphQL ](https://graphql.org/) wrapper for their API.
 
-*It doesn't matter which slice of the biochemistry-stack you are dealing with (omics/expression atlases/cryoem models/sequences/..) or which format your case conforms to (fp-arrays/text/dictionary/time-series)[**](#complexity) -- we'd still love to hear about it*: [ ```rtkushner@gmail.com``` ](mailto:rtkushner@gmail.com?subject=Biological+Data+Integration)
+*It doesn't matter which slice of the biochemical "stack" you are dealing with (-omics/expression atlases/CryoEM models/sequences/...) or which format your data is in -- in fact, span is the goal*.  
 
-Thank you!
+
+
+[``rtkushner@gmail.com`` ](mailto:rtkushner@gmail.com?subject=Biological+Data+Integration)
+
+🌾🦋
+
 
 ____
 
-In a way of a small example, PDB Rutgers are developing a [GraphQL](https://graphql.org/) wrapper for their API and their [ beta ](http://beta.rcsb.org/pages/webservices) is up sometimes.
+*I realize that this might not actually be immediately useful to a professional biologist, who already has her heuristics developed and delivery pipelines figured out, or a professional data-scientist for whom another layer of scripting on top of the usual cleaning might not seem so unnatural. In fact, i'd like to hear from an audience in-between insofar as it exists. And insofar as it doesn't -- the reasons for why it can't.
 
-_________
-
+**Likewise, i'm perfectly aware of the complexity that something like that incurs in the limit. Contra certain responses along the lines of "impossible due to cost/complexity": it seems obvious that -- again, in the limit -- any costs are justified by the appropriate demand. An infrastsructure like this has to materialize eventually and now is as good a time as any to start.
 
 
