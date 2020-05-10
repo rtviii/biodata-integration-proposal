@@ -1,6 +1,4 @@
 
-[ In the long run, we'd like to be able to access multiple bionformatics resources from the same place with little friction and high integration between the fetched data.
-Say, wouldn't it be great if it also encapsulated the meaningless data-cleaning and formatted the targets into the shape appropriate for the experiment before arrival. Why, yes it would.]
 
 
 #### We wish for an interface to life that has:

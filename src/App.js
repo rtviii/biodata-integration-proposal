@@ -52,7 +52,13 @@ function App() {
 
     <div className="container">
 
+
+
       <div className="query">
+        <div className="quote-box">
+          <div className="quote">The palm will be won by the one who can trace the formative forces of the animal body back to the general forces that direct the life of the universe. </div>
+          <div className="author">Karl Ernst von Baer</div>
+        </div>
 
         <div className="proposal" dangerouslySetInnerHTML={{ __html: proposal }} />
 

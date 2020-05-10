@@ -1,3 +1,6 @@
+
+
+*In the long run, we'd like to be able to access multiple bionformatics resources from the same place with little friction and high integration between the fetched data.* 
 Baby steps though. I'm starting with a GraphQL interface for EMBL because that is roughly the edge of my limited expertise.
 I would be grateful to hear from you about
 

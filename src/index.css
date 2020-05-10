@@ -24,7 +24,17 @@ body::-webkit-scrollbar {
 
 .collapse {
   margin-bottom: 20px;
+}
 
+
+.quote{
+  justify-content: center;
+  margin: 10px 100px;
+  font-style: italic;
+}
+
+.author{
+  text-align: right;
 }
 
 @media only screen and (device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2) {
