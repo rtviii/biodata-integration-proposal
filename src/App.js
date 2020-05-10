@@ -38,10 +38,10 @@ function App() {
     watchForHover();
 
 
-    setTimeout(() => {
+    // setTimeout(() => {
 
-      acc[0].click();
-    }, 800);
+    //   acc[0].click();
+    // }, 800);
 
 
   }, [])
