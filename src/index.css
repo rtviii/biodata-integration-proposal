@@ -29,7 +29,7 @@ body::-webkit-scrollbar {
 
 .quote{
   justify-content: center;
-  margin: 10px 100px;
+  margin: 40px 100px;
   font-style: italic;
 }
 
