@@ -1,7 +1,9 @@
 
 
-*In the long run, we'd like to be able to the space of biochemical  data-repositories from the same place with little friction and high(total) integration between the fetched data.* 
-A GraphQL interface for EMBL is my first step because that is roughly the edge of my limited expertise and that ecosystem proved frustrating enough to draw on (does not subtract a bit from my gratefulness towards/privelege of drawing upon vast open-access data). 
+*In the long run, we'd like to be able to the space of biochemical  data-repositories from the same place with little friction and high (complete and dynamic) integration between the fetched data.*  
+
+A GraphQL interface for EMBL is my first step because that is roughly the edge of my limited expertise and that ecosystem proved frustrating enough to draw on (does not subtract a bit from my gratefulness towards/privelege of drawing upon vast open-access data).  
+
 I realize however that it's a tiny constellations relative to the full range of disciplines that peer into biology and i'd appreciate as much as glimpse at those other cases. If you had any experiences similar to the following, consider getting in touch:
 
 
