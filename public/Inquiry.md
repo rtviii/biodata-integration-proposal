@@ -12,8 +12,6 @@ I realize however that it's a tiny constellations relative to the full range of 
  - you need domain-specific experimental data and have no idea where to get it
  - the resource has low interoperability or no obvious mappings to others in its family
 
-In a way of a small example, [ PDB Rutgers ](https://www.rcsb.org/pages/webservices) are also developing a [ GraphQL ](https://graphql.org/) wrapper for their API.
-
 *It doesn't matter which slice of the biochemical "stack" you are dealing with (-omics/expression atlases/CryoEM models/sequences/...) or which format your data is in -- in fact, span is the goal*.  
 
 [``rtkushner@gmail.com`` ](mailto:rtkushner@gmail.com?subject=Biological+Data+Integration) 
@@ -22,6 +20,11 @@ UBC
 
 🌾🦋
  
+
+---
+### Since my first posting this around Christmas 2018:
+
+In a way of a small example, [ PDB Rutgers ](https://www.rcsb.org/pages/webservices) are also developing a [ GraphQL ](https://graphql.org/) wrapper for their API and are in fact beggining migration to the Neo4j graph database.
 
 ____
 
