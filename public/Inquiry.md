@@ -1,10 +1,6 @@
 
 
-*In the long run, we'd like to be able to the space of biochemical  data-repositories from the same place with little friction and high (complete and dynamic) integration between the fetched data.*  
-
-A GraphQL interface for EMBL is my first step because that is roughly the edge of my limited expertise and that ecosystem proved frustrating enough to draw on (does not subtract a bit from my gratefulness towards/privelege of drawing upon vast open-access data).  
-
-I realize however that it's a tiny constellations relative to the full range of disciplines that peer into biology and i'd appreciate as much as glimpse at those other cases. If you had any experiences similar to the following, consider getting in touch:
+I decided to start with a GraphQL interface for EMBL, protein data, but realize that it's a tiny constellation relative to the full range of disciplines that peer into biology and i'd appreciate as much as glimpse at other cases. If you had any experiences similar to the following, consider getting in touch:
 
 
  - an interface doesn't allow for *high-volume* data-fetching
@@ -15,23 +11,25 @@ I realize however that it's a tiny constellations relative to the full range of 
  - the resource has low interoperability or no obvious mappings to others in its family
 
 *It doesn't matter which slice of the biochemical "stack" you are dealing with (-omics/expression atlases/CryoEM models/sequences/...) or which format your data is in -- in fact, span is the goal*.  
+*In the long run, we'd like to be able to the space of biochemical data-repositories from the same place with little friction and high (complete and dynamic) integration between the fetched data.*  
+
 
 [``rtkushner@gmail.com`` ](mailto:rtkushner@gmail.com?subject=Biological+Data+Integration) 
 
 UBC
-
 🌾🦋
- 
 
 ---
-### Since my first posting this around Christmas 2018:
+### Since my first posting this around christmas 2018:
 
-In a way of a small example, [ PDB Rutgers ](https://www.rcsb.org/pages/webservices) are also developing a [ GraphQL ](https://graphql.org/) wrapper for their API and are in fact beggining migration to the Neo4j graph database, offering courses for developers on both.
++ 2019 PDB Rutgers  have added a [ GraphQL  wrapper](https://www.rcsb.org/pages/webservices) for their API.
++ 2020 PDBE is beggining migration to the Neo4j graph database, [ offering devloper training therein ](https://www.ebi.ac.uk/training/events/2020/mining-pdbe-and-pdbe-kb-using-graph-database).
 
++ A 2020 community-driven [ proposal ](https://f1000research.com/articles/9-278/v1) calling for integration of data and tools in ELIXIR. 
 ____
 
-*I realize that this might not actually be immediately useful to a professional biologist, who already has her heuristics developed and delivery pipelines figured out, or a professional data-scientist for whom another layer of scripting on top of the usual cleaning might not seem so unnatural. In fact, i'd like to hear from an audience in-between insofar as it exists. And insofar as it doesn't -- the reasons for why it can't.
+##### I realize that this might not actually be immediately useful to a professional biologist, who already has her heuristics developed and delivery pipelines figured out, or a professional data-scientist for whom another layer of scripting on top of the usual cleaning might not seem so unnatural. In fact, i'd like to hear from an audience in-between insofar as it exists. And insofar as it doesn't -- the reasons for why it can't.
 
-**Likewise, i'm perfectly aware of the complexity that something like that incurs in the limit. Contra certain responses along the lines of "impossible due to cost/complexity": it seems obvious that -- again, in the limit -- any costs are justified by the appropriate demand. An infrastsructure like this has to materialize eventually and now is as good a time as any to start.
+##### Likewise, i'm perfectly aware of the complexity that something like that incurs in the limit. Contra certain responses along the lines of "impossible due to cost/complexity": it seems obvious that -- again, in the limit -- any costs are justified by the appropriate demand. An infrastsructure like this has to materialize eventually and now is as good a time as any to start.
 
 
