@@ -8,7 +8,7 @@
 
 _A common ontology precludes a connected graph._ Biotechnology is ultimately an attempt to engineer a "better" outcome, if purely through prognostication at times. In that, the quality and accessibility of the tools comes to distinguish engineering from hacking in life-sciences of the future.
 
-From a certain perspective, most \*nominally disconnected\* life-sciences fields are investigating the output of a single master-algorithm. Casting the data acquired by every field to a common biological assembly([ ex. ](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)) would provide a context common to each and permit richer inference. 
+From a certain perspective, most \*nominally disconnected\* life-sciences fields are investigating the output of a single master-algorithm. Casting the data acquired by every field to a common biological assembly([ex.](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)) would provide a context common to each and permit richer inference. 
 The practical argument in favor of this is roughly  _software_ and _data interoperability_, ease of communication. The less obvious and the more compelling one is the promise of _multi-scale inference_ that machine intelligence will deliver, shockingly still, in 2020s.
 The realization that systems such as the output of that bespoke "master-algorithm" cannot be simultaneously apprehended and more importantly intuited over by a single human mind presently galvanizes the technology stack into assuming a new form[1](https://arxiv.org/abs/2003.08445),[2](https://arxiv.org/abs/2002.09571),[3](https://arxiv.org/pdf/1901.01753.pdf) that would accommodate a mind that does.
 
