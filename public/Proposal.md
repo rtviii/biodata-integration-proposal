@@ -21,4 +21,4 @@ The realization that systems such as the output of that bespoke "master-algorith
 - _Graph learning_ [*](https://arxiv.org/abs/1810.00826)
 
 
-Given these observations, it seems reasonable to preoccupy myself with the infrastracutre(because none exists so far) for storing and chanelling knowledge to whatever the capable agent of the future looks like. There is no question in my mind about whether these lattices and bridges will be built, just the question of how to make the prologue most accommodatig of the current practices. That is, while we aren't there yet -- what's the most useful thing to have that might get us there.
+Given these observations, it seems reasonable to preoccupy myself with the infrastracutre(because none exists so far) for storing and chanelling knowledge to whatever the capable agent of the future looks like. There is no question in my mind about whether these lattices and bridges will be built, just the question of what is the best way to go about it.
