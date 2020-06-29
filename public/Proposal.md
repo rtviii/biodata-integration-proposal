@@ -10,7 +10,7 @@ _A common ontology precludes a connected graph._ Biotechnology is ultimately an 
 
 From a certain perspective, most \*nominally disconnected\* life-sciences fields are investigating the output of a single master-algorithm. Casting the data acquired by every field to a common biological assembly([ex.](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)) would provide a context common to each and permit richer inference. 
 The practical argument in favor of this is roughly  _software_ and _data interoperability_, ease of communication. The less obvious and the more compelling one is the promise of _multi-scale inference_ that machine intelligence will deliver, shockingly still, in 2020s.
-The realization that systems such as the output of that bespoke "master-algorithm" cannot be simultaneously apprehended and more importantly intuited over by a single human mind presently galvanizes the technology stack into assuming a new form[1](https://arxiv.org/abs/2003.08445),[2](https://arxiv.org/abs/2002.09571),[3](https://arxiv.org/pdf/1901.01753.pdf) that would accommodate a mind that does.
+The realization that systems such as the output of that bespoke "master-algorithm" cannot be simultaneously apprehended and more importantly intuited over by a single human mind presently galvanizes the technology stack into assuming a new form [1](https://arxiv.org/abs/2003.08445),[2](https://arxiv.org/abs/2002.09571),[3](https://arxiv.org/pdf/1901.01753.pdf) that would accommodate a mind that does.
 
 **Why? This would facilitate:**:
 
@@ -21,4 +21,4 @@ The realization that systems such as the output of that bespoke "master-algorith
 - _Graph learning_ [*](https://arxiv.org/abs/1810.00826)
 
 
-Given these observations, it seems reasonable to preoccupy myself with the infrastracutre(because none exists so far) for storing and chanelling knowledge to whatever the capable agent of the future looks like. There is no question in my mind about whether these lattices and bridges will be built, just the question of what is the best way to go about it.
+Given these observations, it seems reasonable to preoccupy myself with the infrastracutre (because none exists so far) for storing and chanelling knowledge to whatever the capable agent of the future looks like. There is no question in my mind about whether these lattices and bridges will be built, just the question of what is the best way to go about it.
