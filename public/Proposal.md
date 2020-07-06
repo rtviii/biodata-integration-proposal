@@ -1,7 +1,7 @@
 ## The problem, roughy: 
 
 
-From [  a certain perspective  ](https://eplex.cs.ucf.edu/papers/lehman_alife08.pdf), most \*nominally disconnected\* life-sciences fields are investigating the output of a single master-algorithm. From that perspective, biotechnology is an attempt to reverse-engineer the code in the hope of invoking a "better outcome" (your definition of *better*). In that, the quality of the tools we have comes to distinguish engineering from hacking. Here is one that seems like it could use an upgrade.
+From [  a certain perspective  ](https://eplex.cs.ucf.edu/papers/lehman_alife08.pdf), most \*nominally disconnected\* life-sciences fields are investigating the output of a single master-algorithm. From that perspective, biotechnology is an attempt to reverse-engineer the code in the hope of invoking a "better outcome" (your definition of *better*). In that, the quality of the tools we have comes to distinguish engineering from hacking. Some of the tools we have could us an upgrade, here is one we don't have at all.
 
 
 *In much the same way that the legacy IT stack has irreconcilable security issues, poor data-integration is something that plagues all fields of computational biology; for much the same historical reasons at that. The problem is both subtle and ubiquitous: ex. though both a geneticist and a bioelectricity researcher may be attending to the mechanisms of morphogenesis, there is still relatively little communication between their respective fields and hence fewer investemnet in the ontologies (protocols) that bridge them. This, unfortunately, insulates scientific software in the space of the local datatypes and instruments that bear it.* 
