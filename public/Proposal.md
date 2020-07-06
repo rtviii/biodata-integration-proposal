@@ -9,7 +9,7 @@ From [  a certain perspective  ](https://eplex.cs.ucf.edu/papers/lehman_alife08.
 
 ## The proposition, also roughly:
 
-Don't "collect data" -- create computational objects. Commit layers of relevant experimental data to a common biological assembly ([ex.](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)) such there is a context common to each layer, but all layers are callable in a lucid manner irrespective of the source/experiment/lab/apparatus/format/local ontology.
+Don't "collect data" -- create computational objects. Commit relevant experimental data to a global biological assembly ([ex.](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)) in intelligble layers such there is a context common to each layer, but everything is callable in a lucid manner irrespective of the source of data/experiment/lab/apparatus/format/local ontology.
 The practical argument in favor of this is roughly  _software_ and _data interoperability_, ease of communication. The less obvious and the more compelling one is the promise of _multi-scale inference_ that machine intelligence will deliver, shockingly still, in 2020s.
 The realization that systems such as the output of that bespoke "master-algorithm" cannot be simultaneously apprehended and -- more importantly -- intuited over by a single human mind galvanizes the technology stack into assuming a new form [1](https://arxiv.org/abs/2003.08445),[2](https://arxiv.org/abs/2002.09571),[3](https://arxiv.org/pdf/1901.01753.pdf) that might accommodate some mind that does.
 
