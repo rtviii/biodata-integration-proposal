@@ -1,7 +1,6 @@
 
 
-I decided to start with a GraphQL interface for EMBL to start committing data to a graph-database later on. I realize that it's a tiny constellation relative to the full range of disciplines that peer into biology and i'd appreciate as much as glimpse at other cases. If you had any experiences similar to the following, consider getting in touch:
-
+I decided to start with a GraphQL interface for EMBL to start committing data to a graph-database later on. I realize that it's a tiny constellation relative to the full range of disciplines that peer into biology and i'd appreciate as much as glimpse at other cases. If you had any experiences similar to the following, please consider getting in touch:
 
  - an interface doesn't allow for *high-volume* data-fetching
  - some heuristic you use becomes invalid when you try to augument your dataset with a different type
