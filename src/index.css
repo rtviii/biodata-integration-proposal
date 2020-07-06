@@ -9,6 +9,7 @@ html, body {
 
   background-color: black;
   font-size: 1.2rem;
+   scrollbar-width: none;
 
 }
 a {
@@ -20,6 +21,8 @@ code {
 }
 body::-webkit-scrollbar {
   display: none;
+  scrollbar-width: none;
+
 }
 
 .collapse {
@@ -42,6 +45,5 @@ body::-webkit-scrollbar {
   body{
     font-size: medium;
   }
-  
 
 }
