@@ -15,17 +15,18 @@ The realization that systems such as the output of that bespoke "master-algorith
 
 #### Hence, we wish for an interface to life that has:
 
-1. **Closure** : If a biochemical datum is digitized and non-proprietary - you should be able to get it. One API, one schema.
+1. **Closure** : If a biochemical datum is digitized and non-proprietary - you should be able to get it. One API, one schema. 
 
-2. **Common Ontology** : A single namespace is needed to index thing data that exist on nominally separate scales or pertain to processes that have no obvious mutual connection. This would allow for integration of wildly heterogenous data up to a `pd`-dataframe as well as capture new depositions and types of data._A common ontology precludes a connected graph._ 
+2. **Common Ontology** : A single namespace is useful to have for indexing data that originate from differet scales or pertain to processes that are nominally unrelated. This should, again, enable the flow of information between domains of knowledge and get us closer to a common dataframe. Doesn't have to be a human-readable ontology, either,c an be a has. _A common ontology precludes a connected graph._ 
+
 
 #### Why? 
 
--  At the very basic, practical level such a traversable graph (as opposed to a trillion excel files lossily duplicated across a thousand firewalls) would facilitate computational experiments that involve multiple types of raw data by providing a common handle. In the long-term, however, this capacity for semantic bridging of domains and scales should enable experiments that draw from multiple pools of deep domain-specific knowledge but are infrastructurally infeasible at the moment.
+-  At the very basic, practical level such a traversable graph (as opposed to a trillion excel files lossily duplicated across a thousand firewalls) would facilitate computational experiments that involve multiple types of raw data by providing a common handle on them. This "semantic bridging" should enable experiments that draw from multiple pools of deep domain-specific knowledge but might be infrastructurally infeasible at the moment.
  
-- DNN _Models that span verticals in addition to horizontals_. [Causality in biology](https://www.biorxiv.org/content/10.1101/2020.05.03.074419v1) is notoriously [ hard to establish ](https://doi.org/10.1155/2020/8932526)due to 2-way interactions between physical and structural scales, emergence. Models that learn from multiple scales/modalities of data have the potential to glean interactions that are not represented in the teleologically selected data. Overparametrization is a blessing that has to be capitalized upon.
+- DNN _Models that span verticals in addition to horizontals_. [Causality in biology](https://www.biorxiv.org/content/10.1101/2020.05.03.074419v1) is notoriously [ hard to establish ](https://doi.org/10.1155/2020/8932526)due to 2-way interactions between physical and structural scales, emergence. Models that learn from multiple scales/modalities of data have the potential to glean interactions and confounders that are not represented in the teleologically selected data. Overparametrization is a blessing that has to be capitalized upon.
 
-- _Spanning graph databases_ [will elaborate].
+- _Spanning graph databases_ will elaborate
 
 - _Graph learning_ [*](https://arxiv.org/abs/1810.00826)
 
