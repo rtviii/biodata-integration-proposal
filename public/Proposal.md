@@ -17,7 +17,7 @@ The realization that systems such as the output of that bespoke "master-algorith
 
 1. **Closure** : If a biochemical datum is digitized and non-proprietary - you should be able to get it. One API, one schema. 
 
-2. **Common Ontology** : A single namespace is useful to have for indexing data that originate from differet scales or pertain to processes that are nominally unrelated. This should, again, enable the flow of information between domains of knowledge and get us closer to a common dataframe. Doesn't have to be a human-readable ontology, either,c an be a has. _A common ontology precludes a connected graph._ 
+2. **Common Ontology** : A single namespace is useful to have for indexing data that originate from differet scales or pertain to processes that are nominally unrelated. This should, again, enable the flow of information between domains of knowledge and get us closer to a common dataframe. Doesn't have to be a human-readable ontology, either,can be a hash. _A common ontology precludes a connected graph._ 
 
 
 #### Why? 
