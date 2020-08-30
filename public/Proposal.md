@@ -8,12 +8,18 @@ From [  a certain perspective  ](https://eplex.cs.ucf.edu/papers/lehman_alife08.
 
 ## The proposition, also roughly:
 
-Don't "collect data" -- create computational objects. Commit relevant experimental data to a global biological assembly ([ex.](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)) in intelligble layers such there is a context common to each layer, but everything is callable in a lucid manner irrespective of the source of data/experiment/lab/apparatus/format/local ontology.
+A lot of fragmentation downstream and computational challenges could seemingly be ameliorated by bringing more method to the process. I'm not exactly what "method"(no *the*) comes to mean, but there seems to be a lot of room for making things more programmatic 
+Some ideas that are not mutually-exclusive: 
+- interop of different database' schemas, more flexible file formats
+- a stronger, more differentiatd type system for biological entities at every level of resolution, more flexible formats that accommodate \[[1](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)\]
+- some bioligically-intelligible hashing to have a digital lingua franca between countless field-specifc ontologies(gene, protein families, immune factors, etc.) that only practitioners really master.
+I'd definitely be wary of trying to be all things to all people as it were but at the same time feel that given how quickly the tools and rituals in each subfields proliferate, it is pretty timely to at least think how to revert or slow down the complexity creep. 
+
 The practical argument in favor of this is roughly  _software_ and _data interoperability_, ease of communication. The less obvious and the more compelling one is the promise of _multi-scale inference_ that machine intelligence will deliver, shockingly still, in 2020s.
-The realization that systems such as the output of that bespoke "master-algorithm" cannot be simultaneously apprehended and -- more importantly -- intuited over by a single human mind galvanizes the technology stack into assuming a new form [ [1](https://arxiv.org/abs/2003.08445),[2](https://www.cerebras.net/product/?fbclid=IwAR29dlQMcctqhFfEjpAtmFeWtCJR0q0xGjmPccL-zFk5VJBrFX74bmC1-_U#chip),[3](https://projects.preferred.jp/mn-core/en/),[4](https://www.graphcore.ai/products),[5](https://arxiv.org/pdf/1901.01753.pdf) ] that might accommodate some model that that does.
+I think a lot of people have this notion now that at some point biological and other systems cannot be simultaneously apprehended and intuited over by a single human mind. In fact the whole technology stack seems to be kind of shifting to accomodate this notion[ [1](https://arxiv.org/abs/2003.08445),[2](https://www.cerebras.net/product/?fbclid=IwAR29dlQMcctqhFfEjpAtmFeWtCJR0q0xGjmPccL-zFk5VJBrFX74bmC1-_U#chip),[3](https://projects.preferred.jp/mn-core/en/),[4](https://www.graphcore.ai/products),[5](https://arxiv.org/pdf/1901.01753.pdf) ] so I don't see why biological/medical analyses should wait for NLP or finance or what have you. In fact biology, life seems like one of the richest source of latent grammar out there, it's just that every sub-field is speaking a different dialect at the moment for historical and infrastracture reasons.
 
 
-#### Hence, we wish for an interface to life that has:
+#### Hence, to be real bold about it, we wish for an interface to life that has:
 
 1. **Closure** : If a biochemical datum is digitized and non-proprietary - you should be able to get it. One API, one schema. 
 
