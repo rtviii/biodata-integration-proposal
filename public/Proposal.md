@@ -11,7 +11,7 @@ From [  a certain perspective  ](https://eplex.cs.ucf.edu/papers/lehman_alife08.
 A lot of fragmentation downstream and computational challenges could seemingly be ameliorated by bringing more method to the process. I'm not exactly what "method"(no *the*) comes to mean, but there seems to be a lot of room for making things more programmatic 
 Some ideas that are not mutually-exclusive: 
 - interop of different database' schemas, more flexible file formats
-- a stronger, more differentiatd type system for biological entities at every level of resolution, more flexible formats that accommodate \[[1](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)\]
+- a stronger, more differentiatd type system for biological entities at every level of resolution \[[1](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)\]
 - some bioligically-intelligible hashing to have a digital lingua franca between countless field-specifc ontologies(gene, protein families, immune factors, etc.) that only practitioners really master.
 I'd definitely be wary of trying to be all things to all people as it were but at the same time feel that given how quickly the tools and rituals in each subfields proliferate, it is pretty timely to at least think how to revert or slow down the complexity creep. 
 
