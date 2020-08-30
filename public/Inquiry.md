@@ -1,6 +1,6 @@
 
 
-I decided to start with a GraphQL interface for EMBL to start committing data to a graph-database later on. I realize that it's a tiny constellation relative to the full range of disciplines that peer into biology and i'd appreciate as much as glimpse at other cases. If you had any experiences similar to the following, please consider getting in touch:
+At the moment I'm building a database of ribosomal structures and associated data that relies on the [ Neo4J ](https://neo4j.com/) graph engine and GraphQL. Once this is somewhat covered I would like to extend the interface to more parts of EMBL. I realize it's still a tiny constellation even in biology and i'd appreciate as much as glimpse at what else is out there that could use this model. If you had any experiences similar to the following, please consider getting in touch:
 
  - an interface doesn't allow for *high-volume* data-fetching
  - some heuristic you use becomes invalid when you try to augument your dataset with a different type
@@ -22,7 +22,6 @@ UBC
 
 + 2019 PDB Rutgers  have added a [ GraphQL  wrapper](https://www.rcsb.org/pages/webservices) for their API.
 + 2020 PDBE is beggining migration to the Neo4j graph database, [ offering devloper training therein ](https://www.ebi.ac.uk/training/events/2020/mining-pdbe-and-pdbe-kb-using-graph-database).
-
 + A 2020 community-driven [ proposal ](https://f1000research.com/articles/9-278/v1) calling for integration of data and tools in ELIXIR. 
 ____
 
