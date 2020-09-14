@@ -37,4 +37,4 @@ I think a lot of people have this notion now that at some point biological and o
 - _Graph learning_ [*](https://arxiv.org/abs/1810.00826)
 
 
-To be candid, there is actually no question in my mind about whether this infrastracture will be built, just the question of what is the best way to go about it.
+There is actually not much of a question in my mind about whether this infrastracture will emerge, i'm just wondering whether it is too early and how much of it is politics/coordination rather than anything remotely technical.
