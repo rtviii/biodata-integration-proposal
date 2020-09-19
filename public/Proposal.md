@@ -12,9 +12,11 @@ From [  a certain perspective  ](https://eplex.cs.ucf.edu/papers/lehman_alife08.
 A lot of fragmentation and computational challenges downstream from raw-data acquisition could seemingly be ameliorated by bringing more method to the process. I'm not exactly sure what "method" comes to mean here, but there seems to be a lot of room for making things at least a bit more programmatic. 
 
 Some ideas that are not mutually-exclusive: 
-- more seamless interop of different database' schemas, more flexible and accommodating file formats
-- a more computationally-navigable format for data release in addition to github maybe. Don't necesserily mean "WolframBio", but computational objects would probably help. This needs even more consensus than a globabl ontology of course.. Hence
-- a type system for biological entities at every level of resolution \[[1](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)\], can be weak, open-sourced and amendment-friendly. Still, an authoritative even if very general map of contexts for biological entities might be due.
+
+- more seamless interop of different database' schemas(ORMs, ), more flexible and accommodating file formats
+- a more computationally-navigable format for data release in addition to github maybe. Don't necesserily mean to make "WolframBio" lol, but computational objects would probably help. This would need even more consensus than a globabl ontology of course.. Hence
+
+- a type system for biological entities at every level of resolution \[[1](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)\]. It can be very weak, open-source and amendment-friendly. Still, some sort of a map even of contexts for biological entities might be due.
   Things obviously evolve with research on every leaf, but for the most part we do have *a clear concept of __what subclasses what__*. This is only nominally an organizational touch. A proper categorization could lead to algebra, lucid encapsulation can lead to *in*-literal-*situ* modeling of, say, a whole cell.
 - some bioligically-intelligible hashing to have a digital lingua franca between countless field-specifc ontologies(gene, protein families, immune factors, etc.) that only practitioners really master. 
 
