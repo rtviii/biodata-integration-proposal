@@ -21,7 +21,7 @@ Some ideas that are not mutually-exclusive:
 + a more computationally-navigable format for novel results. 
 
 + a type system for biological entities at every level of resolution \[[1](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)\]. It can be very weak, open-source and amendment-friendly. Still, some sort of a map even of contexts for biological entities might be due.
-  Things obviously evolve vary rapidly with research on every leaf, but for the most part we do have *a clear concept of __what subclasses what__*. This is only nominally an organizational touch. A proper categorization seems like a necessary condition for sanity let alone computational efficiency so we might as well codify the part of our understanding around which there is consensus. Beyond sheer communication, an algebra of types in biochemistry seems at the very least a handy crutch for getting by in the spaces of biological multiplicity which *are* rife with polymorphism and mutual reference.
+  Things obviously evolve vary rapidly with research on every leaf, but for the most part we do have *a clear concept of __what subclasses what__*. This is only nominally an organizational touch. A proper categorization seems like a necessary condition for sanity let alone computational efficiency so we might as well codify the part of our understanding around which there is consensus. Beyond sheer communication, an algebra of types in biochemistry seems at the very least a handy crutch for getting by in the spaces of biological multiplicity which *are* rife with polymorphism and mutual reference. 
 
 - some bioligically-intelligible hashing to have a digital lingua franca between countless field-specifc ontologies (gene, protein families, immune factors, etc.) that only practitioners really master and that change from decade to decade(in the good case). *Not* a format to refer to between people while a more specific ontology is available, but a way to capture the "address" of the biological object in the universal "memory", regardless of what naming system might come. This is predicated on the presence of a type system from before whereby (1)the constituent abstract types of an object along with (2)*some* physical characteristics of the object (oh number of atoms... affinities...) are inputs to a hash function whose output uniquely identifies that object forever.
 
@@ -36,7 +36,7 @@ I think a lot of people have this notion now that at some point biological and o
 
 1. **Common Ontology** : A single namespace is useful to have for indexing data that originate from differet scales or pertain to processes that are nominally unrelated. This should, again, enable the flow of information between individual domains and get us closer to a common dataframe. Doesn't have to be a human-readable namespace either, can be a hash. _A common ontology precludes a connected graph._ 
 
-2. **A notion of types**.
+2. **A notion of types**. The dream is of course to type the members of the graph in such a way that whole parts of the graph can be reconstructed or are deduced "from first principles" a la Idris or curry-howard provers.
 
 3. **Alignment the structural and the semantic**
 
