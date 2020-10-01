@@ -41,7 +41,7 @@ I think a lot of people have this notion now that at some point biological and o
 
 1. **Common Ontology** : A single namespace is useful to have for indexing data that originate from differet scales or pertain to processes that are nominally unrelated. This should, again, enable the flow of information between individual domains and get us closer to a common dataframe. Doesn't have to be a human-readable namespace either, can be a hash. _A common ontology precludes a connected graph._ 
 
-2. **A notion of types**. The dream is of course to type the members of the graph in such a way that whole parts of the graph can be reconstructed or can be deduced with biochemical plausability "from frst principles" a la Idris or curry-howard provers.
+2. **A notion of types**. The dream is of course to type the members of the graph in such a way that whole parts of the graph can be reconstructed or can be deduced with biochemical plausability "from frst principles" a la Idris(thanks, Markus Strasser) or curry-howard provers.
 
 3. **A connected graph**.  At the very basic, practical level a traversable graph (as opposed to a trillion excel files lossily duplicated across a thousand firewalls) would facilitate computational experiments that involve different modalities of raw data by providing a common handle on them. This "semantic bridging" should enhance experiments that draw from multiple pools of deep domain-specific knowledge and perhaps enable those that are not feasible or infrastracturally conceivable at the moment.[*](https://arxiv.org/abs/1810.00826)
  
