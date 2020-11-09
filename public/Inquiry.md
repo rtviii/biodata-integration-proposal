@@ -1,6 +1,6 @@
 There is an attempt underway to build a database that relies on [Neo4J ](https://neo4j.com/) graph engine and GraphQL at the moment that has hooks into the structural data as well as the semantic. Seeing if this idea of bridging can actually work.
 
-If you know of a domain/area/subfield where this idea-- where there is a palpable disconnect between the semantic and the concrete for example -- and this idea can fit well, please consider getting in touch!
+If you know of a domain/area/subfield where this idea-- where there is a palpable disconnect between the semantic and the structural for example -- and this idea can fit well, please consider getting in touch!
 
 *It doesn't \*really\* matter which slice of the biochemical "stack" you are dealing with (-omics/expression atlases/crystallographic files/sequences/...) or which format your data is in. If this to be a useful exercise, span should be the goal.*  
 
