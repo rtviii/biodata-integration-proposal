@@ -1,4 +1,3 @@
-There is an attempt underway to build a database that relies on [Neo4J ](https://neo4j.com/) graph engine and GraphQL at the moment that has hooks into the structural data as well as the semantic. Seeing if this idea of bridging can actually work.
 
 If you know of a domain/area/subfield where this idea-- where there is a palpable disconnect between the semantic and the structural for example -- and this idea can fit well, please consider getting in touch!
 
