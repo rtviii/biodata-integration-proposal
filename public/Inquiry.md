@@ -1,24 +1,19 @@
 
-If you know of a domain/area/subfield where this idea-- where there is a palpable disconnect between the semantic and the structural for example -- and this idea can fit well, please consider getting in touch!
-
-*It doesn't \*really\* matter which slice of the biochemical "stack" you are dealing with (-omics/expression atlases/crystallographic files/sequences/...) or which format your data is in. If this to be a useful exercise, span should be the goal.*  
-
+If you have a more concrete idea of biodata-integration or something more domain-specific and more fleshed out for a particular intersection, please consider getting in touch! Consider getting in touch even if this just seems like a fun bunch of nonsense.
 
 [``rtkushner@gmail.com`` ](mailto:rtkushner@gmail.com?subject=Biological+Data+Integration) 
 
-UBC
 🌾🦋
 
 ---
 ### Since my first posting this around christmas 2018:
 
-+ 
 + 2019 PDB Rutgers  have added a [ GraphQL  wrapper](https://www.rcsb.org/pages/webservices) for their API.
 + 2020 PDBE is are alsostarting to use the Neo4j graph database, [ offering devloper training therein ](https://www.ebi.ac.uk/training/events/2020/mining-pdbe-and-pdbe-kb-using-graph-database).
 + A 2020 community-driven [ proposal ](https://f1000research.com/articles/9-278/v1) calling for integration of data and tools in ELIXIR. 
 ____
 
-##### I realize that at this point it might not seem obviously useful to a professional biologist, who already has her heuristics for putting computations together figured out, or a professional data-scientist for whom this would fall naturally into the "data-cleaning" category of the paycheck. Still, there are things to be said for a slightly bigger picture.
+##### I realize that at this point it might not seem obviously useful to a professional biologist, who already has her heuristics for putting comp. experiments together figured out, or a professional data-scientist for whom the hoops of data-wrangling are already priced into the paycheck. Still i thik, there are things to be said for a slightly bigger picture.
 
 
 
