@@ -65,4 +65,4 @@ I think a lot of people have this notion now that beyond modelling, real biologi
  -----
 
 
-There is actually not much of a question in my mind about whether this infrastracture will emerge in the firmament-cracking future, but i'm wondering whether it is too early and how much of it is actually politics/coordination rather than anything remotely technical.
+There is actually not much of a question in my mind about whether this infrastracture will emerge in the cracked-firmament future, but i'm wondering whether it is too early to ponder the details yet and how much of it is actually politics/coordination rather than anything remotely technical.
