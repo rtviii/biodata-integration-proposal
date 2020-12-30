@@ -9,7 +9,7 @@ If you have a more concrete idea of biodata-integration or something more domain
 ### Since my first posting this around christmas 2018:
 
 + 2019 PDB Rutgers  have added a [ GraphQL  wrapper](https://www.rcsb.org/pages/webservices) for their API.
-+ 2020 PDBE is are alsostarting to use the Neo4j graph database, [ offering devloper training therein ](https://www.ebi.ac.uk/training/events/2020/mining-pdbe-and-pdbe-kb-using-graph-database).
++ 2020 PDBE is starting to use the Neo4j graph database, [ offering public developer training therein ](https://www.ebi.ac.uk/training/events/2020/mining-pdbe-and-pdbe-kb-using-graph-database).
 + A 2020 community-driven [ proposal ](https://f1000research.com/articles/9-278/v1) calling for integration of data and tools in ELIXIR. 
 ____
 
