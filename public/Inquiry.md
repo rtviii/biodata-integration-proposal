@@ -12,7 +12,7 @@ If you have a more concrete idea of biodata-integration or something more domain
 + 2020 PDBE is starting to use the Neo4j graph database, [ offering public developer training therein ](https://www.ebi.ac.uk/training/events/2020/mining-pdbe-and-pdbe-kb-using-graph-database).
 + A 2020 community-driven [ proposal ](https://f1000research.com/articles/9-278/v1) calling for integration of data and tools in ELIXIR. 
 
-+ [ Combining Experimental Data and Computational Methods for the Non-Computer Specialist ](#https://www.mdpi.com/1420-3049/25/20/4783)
++  Integration of primary experimental and secondary computational data across several methods: [ Combining Experimental Data and Computational Methods for the Non-Computer Specialist ](#https://www.mdpi.com/1420-3049/25/20/4783)
 ___
 
 

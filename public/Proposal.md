@@ -1,4 +1,4 @@
-#### The problem, roughy: 
+# The problem, roughy: 
 
 
 From [  a certain perspective  ](https://eplex.cs.ucf.edu/papers/lehman_alife08.pdf), the fields of "life-science" are investigating the output of a single ["master-algorithm"](https://www.frontiersin.org/articles/10.3389/frobt.2016.00040/full). From that perspective, biotechnology is an attempt to reverse-engineer the gallery of biological contexts in the hope of invoking a "better outcome" (for some definition of *better*). In that, the quality of the tools we have might come to distinguish engineering from hacking. 
@@ -16,7 +16,7 @@ In short:
 - there is a sense in which some delivery pipelines' cost (not only monetary) might approach that of the experiment
 - information is lost when the contexts are made more narrow in the effort to decrease that cost.
 
-#### The proposition, also roughly:
+# The proposition, also roughly:
 
 Some of the fragmentation and computational challenges downstream from raw-data could maybe be ameliorated by bringing more method to its (data) organization. I'm not exactly sure as to what "*method*" comes to mean here, but it seems like there is room for making things at least a little bit more programmatic.
 
@@ -45,7 +45,7 @@ These are some very vague ideas and I'd definitely be wary of trying to be all t
 -----
 
 
-#### Multi-scale and delivery pipelines
+## Multi-scale and delivery pipelines
 
 The practical argument in favor of this integration is, again, roughly  software- and data- _interoperability_, ease of communication. Perhaps the less obvious second-order effect that makes sene to me is the promise of multi-scale inference that machine intelligence will deliver, you hope, in 2020s.
 
@@ -53,7 +53,7 @@ _Models that span verticals in addition to horizontals_. [Causality in biology](
 
 I think a lot of people have this notion now that beyond modelling, real biological and systems in general cannot be simultaneously apprehended and intuited over by a single human mind. In fact the whole technology stack seems to be kind of shifting to accomodate this premonition[ [1](https://arxiv.org/abs/2003.08445),[2](https://www.cerebras.net/product/?fbclid=IwAR29dlQMcctqhFfEjpAtmFeWtCJR0q0xGjmPccL-zFk5VJBrFX74bmC1-_U#chip),[3](https://projects.preferred.jp/mn-core/en/),[4](https://www.graphcore.ai/products),[5](https://arxiv.org/pdf/1901.01753.pdf) ] so I don't see why biological/medical analyses should wait for NLP or finance or what have you to refashion themselves accordingly. In fact biology, *life itself*, seems like one of the richest source of latent grammar out there. Don't mean to say that proper "modelling" is not useful somehow, it's just that if there is some other lens out there now -- why not try it.
 
-#### The Bazaar
+## The Bazaar
 
 This is hardly a technical point, but is probably the most importantn and one that encompasses all the previous ones.  In a world whose infrastracture is primarily digital and where the boundaries between the organism, its digital avatar and the network are increasingy obscure -- digitized biology inevitable becomes another open-source project, ubiquitous and terrifyingly-grand as it is. Making this point more explicit earlier is important, i think, because it would enable cross-polination of "modules" and can also provide an opportunity to attend to one garden instead of many: save the effort of merging inevitably more elaborate schemas, formats of the future. The point is not to have a grip on some central backbone that unifies fields and that everyone has to constantly agree on and update continuously. An obvious nightmare. The point is to lend just enough structure to the knowledge network such that both (1) the more ambitious projects of the future have their stepping stones built already __and__ (2) lesser entinties than whole institutions or labs can contribute to scientific progress : an open-source contributor in this case could push either code and/or data. The structure of the subgraphs itself will, is in fact federated by the professionals in that domain -- we call these subgraphs  "communities" : "the cryo-em community", "the ovarian cancer community", "the ngs community"... -- and it's entirely possible that most people still build whole careers contributing to a single subgraph's codebase and datalake and never leave their bespoke "hexagon". 
 
